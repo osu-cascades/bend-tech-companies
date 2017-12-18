@@ -7,6 +7,10 @@ body {
 }
 
 
+#head {
+	padding-top: 10px;
+}
+
 #pageTitle {
 	font-family: 'Teko', sans-serif;
 	font-weight: 700;
@@ -14,3 +18,22 @@ body {
 	border-left: 5px solid #d6421d;
 	padding-left: 13px;
 }
+
+.thumbnail {
+	font-family: 'Istok Web', sans-serif;
+	width: 100%;
+	
+}
+
+.companytitle {
+	font-weight: 600;
+	font-size: 1em;
+}
+
+.description {
+	font-size: .7em;
+}
+
+
+
+
