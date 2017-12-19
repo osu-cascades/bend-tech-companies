@@ -25,23 +25,30 @@ body {
 }
 
 .thumbnail {
-	font-family: 'Istok Web', sans-serif;
+	font-family: 'Pragati Narrow', sans-serif;
 	width: 100%;
-	height: 100%;
+	height: 225px;
 }
 
 .thumbnail>img {
-	height: 20%;
+	height: 15%;
 }
 
 .companytitle {
-	font-weight: 600;
-	font-size: 1em;
+	font-weight: 700;
+	font-size: 1.3em;
+	letter-spacing: .03em;
 }
 
 .description {
-	font-size: .7em;
+	font-size: .8em;
 }
+
+#creativeCodingLogo {
+	background: black;
+}
+
+
 
 
 
