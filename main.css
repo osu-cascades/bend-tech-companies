@@ -31,22 +31,26 @@ body {
 }
 
 .thumbnail>img {
-	height: 15%;
+	height: 20%;
 }
 
 .companytitle {
 	font-weight: 700;
-	font-size: 1.3em;
+	font-size: 1em;
 	letter-spacing: .03em;
+	margin-top: 12px;
 }
 
 .description {
 	font-size: .8em;
 }
 
-#creativeCodingLogo {
+.black {
 	background: black;
 }
+
+
+
 
 
 
