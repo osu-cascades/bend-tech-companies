@@ -31,7 +31,7 @@ body {
 }
 
 .thumbnail>img {
-	height: 20%;
+	height: 28%;
 }
 
 .companytitle {
@@ -47,6 +47,11 @@ body {
 
 .black {
 	background: black;
+}
+
+.logo {
+	background-size: cover;
+	background-position: center center;
 }
 
 
