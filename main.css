@@ -24,7 +24,7 @@ body {
 .thumbnail {
 	font-family: 'Pragati Narrow', sans-serif;
 	width: 100%;
-	height: 241px;
+	height: 12.25em;
 }
 
 .thumbnail>img {
