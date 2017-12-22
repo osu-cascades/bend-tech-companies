@@ -19,14 +19,27 @@ body {
   flex-wrap: wrap;
 }
 
+
+.display-flex-thumbnail {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .thumbnail {
   font-family: 'Pragati Narrow', sans-serif;
   width: 100%;
-  height: 12.25em;
+  height: 15em;
+  max-height: 100%;
 }
 
 .thumbnail>img {
   height: 28%;
+}
+
+.caption.smaller {
+  width: 100%;
+  height: 70%;
 }
 
 .companytitle {
