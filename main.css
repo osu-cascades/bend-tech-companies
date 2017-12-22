@@ -3,18 +3,16 @@ red color #d6421d
 */
 
 body {
-	font-size: 20px;
+    font-size: 20px;
 }
-
 
 #pageTitle {
-	font-family: 'Teko', sans-serif;
-	font-weight: 700;
-	font-size: 2.5em;
-	border-left: 5px solid #d6421d;
-	padding-left: 13px;
+    font-family: 'Teko', sans-serif;
+    font-weight: 700;
+    font-size: 2.5em;
+    border-left: 5px solid #d6421d;
+    padding-left: 13px;
 }
-
 
 .row.display-flex {
   display: flex;
@@ -22,53 +20,47 @@ body {
 }
 
 .thumbnail {
-	font-family: 'Pragati Narrow', sans-serif;
-	width: 100%;
-	height: 12.25em;
+  font-family: 'Pragati Narrow', sans-serif;
+  width: 100%;
+  height: 12.25em;
 }
 
 .thumbnail>img {
-	height: 28%;
+  height: 28%;
 }
 
 .companytitle {
-	font-weight: 700;
-	font-size: 1em;
-	letter-spacing: .03em;
-	margin-top: 0.5em;
+  font-weight: 700;
+  font-size: 1em;
+  letter-spacing: .03em;
+  margin-top: 0.5em;
 }
 
 .description {
-	font-size: .8em;
+  font-size: .8em;
 }
 
 .black {
-	background: #070505de;
+  background: #070505de;
 }
 
 .logo {
-	background-size: cover;
-	background-position: center center;
+  background-size: cover;
+  background-position: center center;
 }
 
 .blue {
-	background: #005daa;
+  background: #005daa;
 }
 
 .droplrpurple {
-	background: #7b4aba;
+  background: #7b4aba;
 }
 
 .investiBlue {
-	background-color: #105c5e;
+  background-color: #105c5e;
 }
 
 .nimblegray {
-	background-color: #313040;
+  background-color: #313040;
 }
-
-
-
-
-
-
