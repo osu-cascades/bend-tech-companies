@@ -14,18 +14,6 @@ body {
   padding-left: 13px;
 }
 
-.row.display-flex {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-
-.display-flex-thumbnail {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 .thumbnail {
   font-family: 'Pragati Narrow', sans-serif;
   width: 100%;
@@ -34,7 +22,7 @@ body {
 }
 
 .thumbnail>img {
-  height: 28%;
+  height: 20%;
 }
 
 .caption.smaller {
